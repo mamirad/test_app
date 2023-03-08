@@ -50,5 +50,3 @@ test:
 production:
   <<: *default
   database: test_app_production
-  username: root
-  password: password
